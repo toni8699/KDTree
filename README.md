@@ -1,3 +1,3 @@
 # KDTree
 
-Java implementation of KDTree data structure. School project
+Java implementation of KDTree data structure
